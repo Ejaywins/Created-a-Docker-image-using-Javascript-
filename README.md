@@ -8,7 +8,7 @@ Prerequisites
 
 Install the following
 
-1 Docker
+1. Docker
 
 2. Docker desktop
 
